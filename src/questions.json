@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of useState in React?",
+    "options": [
+      "To manage side effects",
+      "To manage component state",
+      "To create context",
+      "To handle routing"
+    ],
+    "correctAnswer": "To manage component state"
+  },
+  {
+    "question": "What does useEffect do in a React component?",
+    "options": [
+      "Handles component styling",
+      "Runs code after render for side effects",
+      "Updates state synchronously",
+      "Creates reusable components"
+    ],
+    "correctAnswer": "Runs code after render for side effects"
+  },
+  {
+    "question": "Which of the following is true about React components?",
+    "options": [
+      "They must always be class-based",
+      "They return HTML strings",
+      "They return JSX",
+      "They cannot manage state"
+    ],
+    "correctAnswer": "They return JSX"
+  },
+  {
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "A direct representation of the browser DOM",
+      "A lightweight copy of the real DOM used for efficient updates",
+      "A database for storing UI state",
+      "A CSS abstraction layer"
+    ],
+    "correctAnswer": "A lightweight copy of the real DOM used for efficient updates"
+  },
+  {
+    "question": "What is the correct way to pass data from parent to child component?",
+    "options": [
+      "Using state",
+      "Using props",
+      "Using context only",
+      "Using hooks directly"
+    ],
+    "correctAnswer": "Using props"
+  }
+]
